@@ -1,0 +1,19 @@
+"0","sf_trees <- read_csv(here(""data"", ""sf_trees"", ""sf_trees.csv""))"
+"2","
+[36m--[39m [1m[1mColumn specification[1m[22m [36m-----------------------------------------------------------------------------------------------------------------------------------[39m
+cols(
+  tree_id = [32mcol_double()[39m,
+  legal_status = [31mcol_character()[39m,
+  species = [31mcol_character()[39m,
+  address = [31mcol_character()[39m,
+  site_order = [32mcol_double()[39m,
+  site_info = [31mcol_character()[39m,
+  caretaker = [31mcol_character()[39m,
+  date = [34mcol_date(format = """")[39m,
+  dbh = [32mcol_double()[39m,
+  plot_size = [31mcol_character()[39m,
+  latitude = [32mcol_double()[39m,
+  longitude = [32mcol_double()[39m
+)
+
+"

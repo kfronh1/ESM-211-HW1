@@ -1,0 +1,4 @@
+"0","EGR <- dunegrass_mean %>% "
+"0","  mutate(Estimated_GR = lead(mean) - mean /1 )"
+"0",""
+"0","EGR"

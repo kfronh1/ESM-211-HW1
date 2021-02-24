@@ -1,0 +1,11 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0",""
+"0","library(tidyverse)"
+"0","library(here)"
+"2","here() starts at H:/ESM 244/esm244-w2021-lab1
+"
+"0","library(sf)"
+"2","Linking to GEOS 3.8.0, GDAL 3.0.4, PROJ 6.3.1
+"
+"0","library(tmap)"
+"0","library(tidyr)"
